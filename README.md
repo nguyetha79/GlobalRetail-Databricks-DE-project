@@ -62,7 +62,7 @@ Combines the **flexibility & scalability** of data lakes with the **data managem
 - **Cost**
 
 ## 8.	High-Level Architecture Diagram
-![architecture](path_or_url_to_image)
+![architecture](https://github.com/nguyetha79/GlobalRetail-Databricks-DE-project/blob/main/High-Level%20Architecture%20Diagram.png)
 
 ## 9.	Key components
 - Databricks Workspace
